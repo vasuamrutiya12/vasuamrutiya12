@@ -20,7 +20,7 @@
 
 ## 🚀 Projects
 
-### 🏎️ [SwiftRides - Multi-Vendor Car Rental Platform](https://github.com/druman12/CarRentalSystem)
+### 🏎️ [SwiftRides - Multi-Vendor Car Rental Platform](https://github.com/druman12/SwiftRides)
 - Full-stack app with **React.js**, **Spring Boot microservices**, and **PostgreSQL**
 - Role-based **JWT authentication**, **Spring Cloud Gateway**, **Eureka**, **Config Server**
 - Integrated **Stripe payments**, reviews, support chat, and admin dashboards
