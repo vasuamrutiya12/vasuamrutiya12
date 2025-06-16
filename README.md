@@ -42,8 +42,7 @@
 
 - 🏅 Finalist – **Odoo x Charusat Hackathon 2025**, Top 50 of 1000+ teams  
 - 🥇 Top 6 of 400+ teams in **Hack-NU-thon 6.0 (2025)** at Nirma University  
-- 💡 Solved **170+ LeetCode problems** to improve DSA skills  
-- 🎓 Academic Excellence – GSEB: **99.56 PR**, HSEB: **98.99 PR**
+- 💡 Solved **200+ LeetCode problems** to improve DSA skills  
 
 ---
 
