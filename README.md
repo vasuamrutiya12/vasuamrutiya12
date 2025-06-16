@@ -5,13 +5,12 @@
     <img src="https://komarev.com/ghpvc/?username=vasuamrutiya12&label=Profile%20views&color=0e75b6&style=flat" alt="vasuamrutiya12" /> 
 </p>
 
-<p align="left"> <a href="https://x.com/DrumanKane22492" target="blank"><img src="https://img.shields.io/twitter/follow/DrumanKane22492?logo=twitter&style=for-the-badge" alt="sahil_sapariya" /></a> </p>
+<p align="left"> <a href="https://x.com/VasuAmrutiya12" target="blank"><img src="https://img.shields.io/twitter/follow/VasuAmrutiya12?logo=twitter&style=for-the-badge" alt="sahil_sapariya" /></a> </p>
 
 
 <!-- <img height="400" align="center" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="coder image" /> -->
 
-- 🌱 I’m currently contributing to [**Car Rental System**](https://github.com/druman12/CarRentalSystem)
-- 📫 How to reach me **drumananeriya1202@gmail.com**
+- 📫 How to reach me **vasuamrutiya12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
